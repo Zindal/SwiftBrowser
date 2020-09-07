@@ -1,0 +1,22 @@
+PODS:
+  - NVActivityIndicatorView (5.0.1):
+    - NVActivityIndicatorView/Base (= 5.0.1)
+  - NVActivityIndicatorView/Base (5.0.1)
+  - SwiftTheme (0.5.2)
+
+DEPENDENCIES:
+  - NVActivityIndicatorView
+  - SwiftTheme
+
+SPEC REPOS:
+  trunk:
+    - NVActivityIndicatorView
+    - SwiftTheme
+
+SPEC CHECKSUMS:
+  NVActivityIndicatorView: 738e843cb8924e9e4fc3e559d0728031624bf860
+  SwiftTheme: 8b02c479bb4441b2b6790ac126e961b1b6fb0932
+
+PODFILE CHECKSUM: aba95fcc162c5631a8ce4c0aa55dfe3b87ae4769
+
+COCOAPODS: 1.9.3
